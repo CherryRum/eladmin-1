@@ -99,7 +99,7 @@
         <logback.version>1.4.5</logback.version>
         <redisson.version>3.19.0</redisson.version>
         <guava.version>31.1-jre</guava.version>
-        <poi.version>5.2.2</poi.version>
+        <poi.version>5.2.3</poi.version>
         <xerces.version>2.12.2</xerces.version>
         <yauaa.version>7.9.0</yauaa.version>
         <ip2region.version>2.7.6</ip2region.version>
